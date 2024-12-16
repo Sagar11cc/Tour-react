@@ -1,0 +1,14 @@
+/* 
+.slick-slide > div {
+    margin: 0 10px;
+  }
+  .slick-list {
+    margin: 0 -10px;
+  } */
+
+  .slick-arrow{
+    position: absolute;
+    z-index: 10;
+    width: 40px;
+    height: 40px;
+  }
